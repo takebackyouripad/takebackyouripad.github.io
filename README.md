@@ -11,7 +11,7 @@
 
 **IMPORTANT NOTE:** You must perform step 5 before connecting to *any other network*, otherwise you will go back to a normal school iPad within about three seconds. 
 
-If you have any questions, DM [@schoolipadhelp](https://www.instagram.com/schoolipadhelp/) on Instagram or Snap [@schoolipadhelp](https://www.snapchat.com/add/schoolipadhelp). We'd be happy to help. 
+If you have any questions, DM [@schoolipadhelp](https://www.instagram.com/schoolipadhelp/) on Instagram. We'd be happy to help. 
 
 Be sure to tell your friends!
 
