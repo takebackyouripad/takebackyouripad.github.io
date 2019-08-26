@@ -1,5 +1,5 @@
 # Remove All Restrictions from School iPad
-*Get the App Store back!*
+## Get the App Store back!
 
 1. Settings -> General -> Reset -> Erase All Content and Settings. Follow the instructions. 
 2. Wait for it to get to the Hello screen.
@@ -37,3 +37,7 @@ Not by technical means. Blocking Erase All Content and Settings won't work (alth
 
 #### Whodunnit?
 A talented group of seniors at a public high school in upstate New York came up with the general process. It was shared through a Discord server (alledgedly) to members of a group in California, who posted it on Instagram. This site is a modified version of that Instagram post, tested and confirmed to work on another district's iPads. 
+
+
+
+`Copyright 2019 InVEXers@mtka. All rights reserved.`
