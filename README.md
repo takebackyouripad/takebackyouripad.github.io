@@ -16,6 +16,17 @@ If you have any questions, DM [@schoolipadhelp](https://www.instagram.com/school
 Be sure to tell your friends!
 
 ## FAQ
+#### How do I get Notability back? (districts that use Notability only)
+You have two options: 
+- Using a personal Apple ID, purchase it from the App Store for $12. This option is much less risky, but $12 is kind of expensive. 
+- Briefly disable your protections to allow the MDM to push Notability to your iPad: 
+  1. Connect to a network and wait about a day (shorter times may work; no guarantees). 
+  2. Disable the proxy, but stay connected to WiFi. Make sure *not* to disconnect and reconnect. 
+  3. Go to the home screen. Wait for Notability and other apps to start downloading, then turn off your WiFi the same way as you did the first time. 
+  4. Turn back on the proxy. 
+  5. Re-connect to your WiFi network. If all went well, Notability will finish downloading and installing and no other restrictions will appear. 
+If you would prefer to not pay for Notability, we would recommend performing the second option immediately after setting up the iPad so that you don't lose too much work if something goes wrong. Also, you may not be able to update Notability if you do it the second way; the App Store will give you an error if you try. If you must update it, delete all MDM-provided apps and repeat the above process (although it's much more likely to fail the second time around). 
+
 #### Can the school district just block resetting iPads?
 Yes. We have a workaround.
 
@@ -24,6 +35,9 @@ Maybe? Hide your non-school-approved apps in the second page of a folder. You ca
 
 #### Can the school see from their end if you have done this?
 It's possible. We're working on ways to make the school's MDM server think that the iPad has been registered without it actually having done so. 
+
+#### Can I avoid having to type out the URL every time I connect to a new network?
+If you have a Mac, try creating a configuration profile with Apple Configurator 2 that includes the proxy. However, this strategy appears to be temporary. For some reason, the iPad slowly reverts back to the school state if this is your only means of protection. Be sure to also manually add the proxy URL to each WiFi network. 
 
 ## FAQ for Teachers and Administrators
 #### Students are goofing off in class a lot more now! How can we stop them?
