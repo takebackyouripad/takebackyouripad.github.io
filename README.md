@@ -19,13 +19,16 @@ Be sure to tell your friends!
 #### How do I get Notability back? (districts that use Notability only)
 You have two options: 
 - Using a personal Apple ID, purchase it from the App Store for $12. This option is much less risky, but $12 is kind of expensive. 
-- Briefly disable your protections to allow the MDM to push Notability to your iPad: 
+- Briefly disable your protections to allow the MDM to push Notability to your iPad (extremely risky): 
   1. Connect to a network and wait about a day (shorter times may work; no guarantees). 
   2. Disable the proxy, but stay connected to WiFi. Make sure *not* to disconnect and reconnect. 
   3. Go to the home screen. Wait for Notability and other apps to start downloading, then turn off your WiFi the same way as you did the first time. 
   4. Turn back on the proxy. 
   5. Re-connect to your WiFi network. If all went well, Notability will finish downloading and installing and no other restrictions will appear. 
+
 If you would prefer to not pay for Notability, we would recommend performing the second option immediately after setting up the iPad so that you don't lose too much work if something goes wrong. Also, you may not be able to update Notability if you do it the second way; the App Store will give you an error if you try. If you must update it, delete all MDM-provided apps and repeat the above process (although it's much more likely to fail the second time around). 
+
+Getting Notability to push without restrictions is basically just luck. It seems to happen about a third of the time, so if you get a pile of restrictions, try again!
 
 #### Can the school district just block resetting iPads?
 Yes. We have a workaround.
@@ -54,4 +57,4 @@ A talented group of seniors at a public high school in upstate New York came up 
 
 
 
-`Copyright 2019 InVEXers@mtka. All rights reserved.`
+`Copyright 2019 InVEXers@mtka and The Underground Helpdesk. All rights reserved.`
